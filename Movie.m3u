@@ -11,8 +11,20 @@ http://bit.ly/38kzael
 #EXTINF:-1 tvg-logo="https://is.gd/Xz7LPu" group-title="LANÇAMENTOS" type="video" description="O corgi Rex foi escolhido como "Top Dog", o cachorro preferido da Rainha. Ele vive cercado de outros cachorros no Palácio de Buckingham, repleto de alimentos finos e outras mordomias.", CORGI: TOP DOG
 http://bit.ly/2PICk2Y
 
+#EXTINF:-1 tvg-logo="https://is.gd/2oZGWx" group-title="ANIMAÇÃO" type="video" description="Os pássaros incapazes de voar e os porquinhos verdes engenhosos levam a sua rivalidade a outro nível em “Angry Birds 2 – O Filme”!", ANGRY BIRDS 2: O FILME
+http://bit.ly/34i65x2
+
+#EXTINF:-1 tvg-logo="https://is.gd/QMZkkx" group-title="ANIMAÇÃO" type="video" description="A história de Max e seus amigos peludos continua, seguindo suas vidas secretas quando seus donos saem de casa para a escola, ou para o trabalho.", PETS – A VIDA SECRETA DOS BICHOS 2
+http://bit.ly/34qj2Fb
+
 #EXTINF:-1 tvg-logo="https://is.gd/3ZdoM5" group-title="LANÇAMENTOS" type="video" description="Luccas Neto e Gi viverão uma inesquecível aventura no Polo Norte. Às vésperas do Natal, os presentes começam a sumir misteriosamente e o Papai Noel precisa de ajuda.", LUCCAS NETO EM: O FIM DO NATAL
 http://bit.ly/35bwo9j
+
+#EXTINF:-1 tvg-logo="https://is.gd/4FseKR" group-title="AÇÃO" type="video" description="O tempo passou para Rambo, que agora vive recluso em um rancho. Sua vida marcada por lutas violentas ficou para trás, mas deixou marcas inesquecíveis. ", RAMBO: ATÉ O FIM
+http://bit.ly/35mSDcz
+
+#EXTINF:-1 tvg-logo="https://is.gd/q5twoB" group-title="AÇÃO" type="video" description="Na beleza marcante de Anna Poliatova encontra-se um segredo que irá libertar sua força indelével e habilidade para se tornar uma das assassinas mais temidas e bem treinadas do mundo.", ANNA: O PERIGO TEM NOME
+http://bit.ly/2YKeyb6
 
 #EXTINF:-1 tvg-logo="https://is.gd/LBwpJd" group-title="AÇÃO" type="video" description="Desde que se conheceram, Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um.", VELOZES & FURIOSOS: HOBBS & SHAW
 http://bit.ly/35rGumN
@@ -21,6 +33,12 @@ http://bit.ly/35rGumN
  http://bit.ly/2PEBmoD
 
 AÇÃO:
+
+#EXTINF:-1 tvg-logo="https://is.gd/4FseKR" group-title="AÇÃO" type="video" description="O tempo passou para Rambo, que agora vive recluso em um rancho. Sua vida marcada por lutas violentas ficou para trás, mas deixou marcas inesquecíveis. ", RAMBO: ATÉ O FIM
+http://bit.ly/35mSDcz
+
+#EXTINF:-1 tvg-logo="https://is.gd/q5twoB" group-title="AÇÃO" type="video" description="Na beleza marcante de Anna Poliatova encontra-se um segredo que irá libertar sua força indelével e habilidade para se tornar uma das assassinas mais temidas e bem treinadas do mundo.", ANNA: O PERIGO TEM NOME
+http://bit.ly/2YKeyb6
 
 #EXTINF:-1 tvg-logo="https://is.gd/LBwpJd" group-title="AÇÃO" type="video" description="Desde que se conheceram, Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um.", VELOZES & FURIOSOS: HOBBS & SHAW
 http://bit.ly/35rGumN
@@ -41,6 +59,12 @@ ANIMAÇÃO:
 
 #EXTINF:-1 tvg-logo="https://is.gd/Xz7LPu" group-title="ANIMAÇÃO" type="video" description="O corgi Rex foi escolhido como "Top Dog", o cachorro preferido da Rainha. Ele vive cercado de outros cachorros no Palácio de Buckingham, repleto de alimentos finos e outras mordomias.", CORGI: TOP DOG
 http://bit.ly/2PICk2Y
+
+#EXTINF:-1 tvg-logo="https://is.gd/2oZGWx" group-title="ANIMAÇÃO" type="video" description="Os pássaros incapazes de voar e os porquinhos verdes engenhosos levam a sua rivalidade a outro nível em “Angry Birds 2 – O Filme”!", ANGRY BIRDS 2: O FILME
+http://bit.ly/34i65x2
+
+#EXTINF:-1 tvg-logo="https://is.gd/QMZkkx" group-title="ANIMAÇÃO" type="video" description="A história de Max e seus amigos peludos continua, seguindo suas vidas secretas quando seus donos saem de casa para a escola, ou para o trabalho.", PETS – A VIDA SECRETA DOS BICHOS 2
+http://bit.ly/34qj2Fb
 
 #EXTINF:-1 tvg-logo="https://is.gd/3ZdoM5" group-title="ANIMAÇÃO" type="video" description="Luccas Neto e Gi viverão uma inesquecível aventura no Polo Norte. Às vésperas do Natal, os presentes começam a sumir misteriosamente e o Papai Noel precisa de ajuda.", LUCCAS NETO EM: O FIM DO NATAL
 http://bit.ly/35bwo9j
