@@ -5,11 +5,17 @@ LANÇAMENTOS:
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/xFRZkW" group-title="LANÇAMENTOS", DORA E A CIDADE PERDIDA
 http://bit.ly/35kvM13
 
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/4sRAyw" group-title="LANÇAMENTOS", HOMEM-ARANHA: LONGE DE CASA
+http://bit.ly/2RYNG5X
+
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/3hZvlH" group-title="LANÇAMENTOS", AD ASTRA - RUMO ÀS ESTRELAS
 http://bit.ly/38kzael
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/Xz7LPu" group-title="LANÇAMENTOS", CORGI: TOP DOG
 http://bit.ly/2PICk2Y
+
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/XdXTee" group-title="LANÇAMENTOS", TOY STORY 4
+http://bit.ly/2sv9UBS
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/2oZGWx" group-title="LANÇAMENTOS", ANGRY BIRDS 2: O FILME
 http://bit.ly/34i65x2
@@ -60,6 +66,9 @@ ANIMAÇÃO:
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/Xz7LPu" group-title="ANIMAÇÃO", CORGI: TOP DOG
 http://bit.ly/2PICk2Y
 
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/XdXTee" group-title="ANIMAÇÃO", TOY STORY 4
+http://bit.ly/2sv9UBS
+
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/2oZGWx" group-title="ANIMAÇÃO", ANGRY BIRDS 2: O FILME
 http://bit.ly/34i65x2
 
@@ -71,6 +80,11 @@ http://bit.ly/35bwo9j
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/9LhLMg" group-title="ANIMAÇÃO", STEVEN UNIVERSO - O FILME
  http://bit.ly/2PEBmoD
+ 
+ FICÇÃO:
+ 
+ #EXTINF:-1 type="video" tvg-logo="https://is.gd/4sRAyw" group-title="FICÇÃO CIENTÍFICA", HOMEM-ARANHA: LONGE DE CASA
+http://bit.ly/2RYNG5X
 
 COLEÇÕES:
 
