@@ -2,6 +2,12 @@
 
 LANÇAMENTOS:
 
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/o7L6Jj" group-title="LANÇAMENTOS", CODE 8: RENEGADOS
+http://bit.ly/2Pp1a9e
+
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/M5hjTr" group-title="LANÇAMENTOS", MIB: HOMENS DE PRETO - INTERNACIONAL
+http://bit.ly/2Poq6O7
+
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/xFRZkW" group-title="LANÇAMENTOS", DORA E A CIDADE PERDIDA
 http://bit.ly/35kvM13
 
@@ -86,10 +92,16 @@ http://bit.ly/35bwo9j
  
  FICÇÃO:
  
- #EXTINF:-1 type="video" tvg-logo="https://is.gd/4sRAyw" group-title="FICÇÃO CIENTÍFICA", HOMEM-ARANHA: LONGE DE CASA
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/o7L6Jj" group-title="FICÇÃO CIENTÍFICA", CODE 8: RENEGADOS
+http://bit.ly/2Pp1a9e
+
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/M5hjTr" group-title="FICÇÃO CIENTÍFICA", MIB: HOMENS DE PRETO - INTERNACIONAL
+http://bit.ly/2Poq6O7
+ 
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/4sRAyw" group-title="FICÇÃO CIENTÍFICA", HOMEM-ARANHA: LONGE DE CASA
 http://bit.ly/2RYNG5X
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/nmZxYY" group-title="LANÇAMENTOS", X-MEN: FÊNIX NEGRA
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/nmZxYY" group-title="FICÇÃO CIENTÍFICA", X-MEN: FÊNIX NEGRA
 http://bit.ly/2rGdoRY
 
 COLEÇÕES:
