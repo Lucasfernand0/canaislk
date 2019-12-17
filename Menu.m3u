@@ -7082,3 +7082,11 @@ http://cdnfe2.azureedge.net/RCServer05/ondemand/WKFUT02EP25.mp4
 
 #EXTINF:-1 group-title="Wakfu" type="video", Episodio 26
 http://cdnfe2.azureedge.net/RCServer05/ondemand/WKFUT02EP26.mp4
+
+
+#EXTINF:-1 group-title="Winx Club" tvg-logo="https://i.imgur.com/u3mKIzH.png" type="video", 8 Temporada
+https://0.0.0.0
+
+#EXTINF:-1 group-title="Winx Club" type="video", Episodio 1
+http://bit.ly/2EsjB6A
+
