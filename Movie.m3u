@@ -2,8 +2,8 @@
 
 LANÇAMENTOS:
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/019qn9" group-title="LANÇAMENTOS", CORINGA (+18)
-http://bit.ly/2Pu7a0n
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/sZKkgw" group-title="NACIONAL", ELA DISSE ELE DISSE
+http://bit.ly/2EDE6xi
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/o7L6Jj" group-title="LANÇAMENTOS", CODE 8: RENEGADOS
 http://bit.ly/2Pp1a9e
@@ -11,7 +11,7 @@ http://bit.ly/2Pp1a9e
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/WEP8o3" group-title="LANÇAMENTOS", ALADDIN
 http://bit.ly/38WDmBs
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/q1tI6p group-title="LANÇAMENTOS", O AMOR DÁ TRABALHO
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/q1tI6p" group-title="LANÇAMENTOS", O AMOR DÁ TRABALHO
 http://bit.ly/2PTxtMz
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/M5hjTr" group-title="LANÇAMENTOS", MIB: HOMENS DE PRETO - INTERNACIONAL
@@ -118,14 +118,11 @@ http://bit.ly/2rGdoRY
 
 NACIONAL:
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/q1tI6p group-title="NACIONAL", O AMOR DÁ TRABALHO
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/q1tI6p" group-title="NACIONAL", O AMOR DÁ TRABALHO
 http://bit.ly/2PTxtMz
 
-SUSPENSE:
-
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/019qn9" group-title="SUSPENSE", CORINGA (+18)
-http://bit.ly/2Pu7a0n
-
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/sZKkgw" group-title="NACIONAL", ELA DISSE ELE DISSE
+http://bit.ly/2EDE6xi
 
 COLEÇÕES:
 
