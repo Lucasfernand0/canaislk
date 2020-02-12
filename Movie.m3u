@@ -2,6 +2,12 @@
 
 LANÇAMENTOS:
 
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/JeI3mO" group-title="LANÇAMENTOS", AS PANTERAS
+http://bit.ly/2uFn14J
+
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/PrpdyT" group-title="ANIMAÇÃO", A FAMILIA ADDAMS
+http://bit.ly/2OQIVbY
+
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/rSMACw" group-title="LANÇAMENTOS", Frozen 2 (DVDSCR)
 http://bit.ly/2G4tAQj
 
@@ -73,7 +79,11 @@ http://bit.ly/35rGumN
 
 AÇÃO:
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/4FseKR" group-title="AÇÃO", RAMBO: ATÉ O FIM
+
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/JeI3mO" group-title="AÇÃO", AS PANTERAS
+http://bit.ly/2uFn14J
+
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/6BF3ck" group-title="AÇÃO", RAMBO: ATÉ O FIM
 http://bit.ly/35mSDcz
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/q5twoB" group-title="AÇÃO", ANNA: O PERIGO TEM NOME
@@ -96,7 +106,10 @@ http://bit.ly/35j6H6J
 
 ANIMAÇÃO:
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/rSMACw" group-title="LANÇAMENTOS", Frozen 2 (DVDSCR)
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/PrpdyT" group-title="ANIMAÇÃO", A FAMILIA ADDAMS
+http://bit.ly/2OQIVbY
+
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/rSMACw" group-title="ANIMAÇÃO", Frozen 2 (DVDSCR)
 http://bit.ly/2G4tAQj
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/94LV1Q" group-title="ANIMAÇÃO", ABOMINÁVEL
