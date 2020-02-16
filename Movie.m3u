@@ -2,6 +2,9 @@
 
 LANÇAMENTOS:
 
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg" group-title="LANÇAMENTOS", Aves de Rapina (TC)
+http://bit.ly/2uyAfjw
+
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/JeI3mO" group-title="LANÇAMENTOS", AS PANTERAS
 http://bit.ly/2uFn14J
 
@@ -201,8 +204,6 @@ COMÉDIA:
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/MRWT3J" group-title="COMÉDIA", DIÁRIO DE UM BANANA 3
  http://bit.ly/3bB59bJ
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/dtoYuO" group-title="COMÉDIA", NADANDO COM HOMENS
-http://bit.ly/39TBeL2
  
 FICÇÃO:
 
@@ -233,6 +234,9 @@ http://bit.ly/2PTxtMz
 http://bit.ly/2EDE6xi
 
 SUSPENSE:
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg" group-title="LANÇAMENTOS", Aves de Rapina (TC)
+http://bit.ly/2uyAfjw
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/odafdU" group-title="SUSPENSE", VINGANÇA A SANGUE FRIO
 http://bit.ly/2FuUpgk
