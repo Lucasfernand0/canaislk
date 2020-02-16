@@ -196,13 +196,17 @@ http://bit.ly/35bwo9j
 COMÉDIA:
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/FOakxT" group-title="COMÉDIA", DIÁRIO DE UM BANANA
- http://bit.ly/2SLu9ES
+http://bit.ly/2SLu9ES
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/hi9ojb" group-title="COMÉDIA", DIÁRIO DE UM BANANA 2
- http://bit.ly/2SETq3d
+http://bit.ly/2SETq3d
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/MRWT3J" group-title="COMÉDIA", DIÁRIO DE UM BANANA 3
- http://bit.ly/3bB59bJ
+http://bit.ly/3bB59bJ
+ 
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/MRWT3J" group-title="COMÉDIA", DIÁRIO DE UM BANANA 4
+http://bit.ly/2P04Z3Z
+
 
  
 FICÇÃO:
@@ -235,7 +239,7 @@ http://bit.ly/2EDE6xi
 
 SUSPENSE:
 
-#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg" group-title="LANÇAMENTOS", Aves de Rapina (TC)
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg" group-title="SUSPENSE", Aves de Rapina (TC)
 http://bit.ly/2uyAfjw
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/odafdU" group-title="SUSPENSE", VINGANÇA A SANGUE FRIO
