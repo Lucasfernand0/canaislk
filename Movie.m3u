@@ -2,7 +2,7 @@
 
 LANÇAMENTOS:
 
-#EXTINF:-1 type="video" tvg-logo="" group-title="LANÇAMENTOS", Coringa
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJnXQL6Aa4s26eaORTvy0zRskfh.jpg" group-title="LANÇAMENTOS", Coringa
 http://bit.ly/2GWoaYe
 
 #EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg" group-title="LANÇAMENTOS", Aves de Rapina (TC)
@@ -14,13 +14,25 @@ http://bit.ly/2uFn14J
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/PrpdyT" group-title="LANÇAMENTOS", A FAMILIA ADDAMS
 http://bit.ly/2OQIVbY
 
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg" group-title="LANÇAMENTOS", O Exterminador do Futuro: Destino Sombrio
+http://bit.ly/3bawxNz
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg" group-title="LANÇAMENTOS", Delorean - Do Motor ao Crime
+http://bit.ly/31xFTPi
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnZJXIIC0fwDUpxhMH1KK9by5H.jpg" group-title="LANÇAMENTOS", Ford vs Ferrari
+http://bit.ly/2S3gZDR
+
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/rSMACw" group-title="LANÇAMENTOS", Frozen 2 (DVDSCR)
 http://bit.ly/2G4tAQj
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/94LV1Q" group-title="LANÇAMENTOS", ABOMINÁVEL
 http://bit.ly/35EVEUF
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/bavqgi" group-title="LANÇAMENTOS", VOANDO ALTO
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo9hEe3yBjJYOxL3suygTuVxWmn.jpg" group-title="LANÇAMENTOS", Bons Meninos
+http://bit.ly/3838z4O
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWZslR3J2ykT9J1pBzgmiR4eMrJ.jpg" group-title="LANÇAMENTOS", VOANDO ALTO
 http://bit.ly/39QK6Rz
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/dtoYuO" group-title="LANÇAMENTOS", MALÉVOLA: DONA DO MAL
@@ -77,6 +89,9 @@ http://bit.ly/2YKeyb6
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/nmZxYY" group-title="LANÇAMENTOS", X-MEN: FÊNIX NEGRA
 http://bit.ly/2rGdoRY
 
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lQAAu6WZ7l0Cn4KW3igVGIMPXl.jpg" group-title="LANÇAMENTOS", Missão de Honra
+http://bit.ly/3716HIG
+
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/LBwpJd" group-title="LANÇAMENTOS", VELOZES & FURIOSOS: HOBBS & SHAW
 http://bit.ly/35rGumN
 
@@ -88,6 +103,12 @@ AÇÃO:
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/JeI3mO" group-title="AÇÃO", AS PANTERAS
 http://bit.ly/2uFn14J
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg" group-title="AÇÃO", Delorean - Do Motor ao Crime
+http://bit.ly/31xFTPi
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnZJXIIC0fwDUpxhMH1KK9by5H.jpg" group-title="AÇÃO", Ford vs Ferrari
+http://bit.ly/2S3gZDR
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/6BF3ck" group-title="AÇÃO", RAMBO: ATÉ O FIM
 http://bit.ly/35mSDcz
@@ -198,21 +219,27 @@ http://bit.ly/35bwo9j
  
 COMÉDIA:
 
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo9hEe3yBjJYOxL3suygTuVxWmn.jpg" group-title="COMÉDIA", Bons Meninos
+http://bit.ly/3838z4O
+
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/FOakxT" group-title="COMÉDIA", DIÁRIO DE UM BANANA
 http://bit.ly/2SLu9ES
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/hi9ojb" group-title="COMÉDIA", DIÁRIO DE UM BANANA 2
 http://bit.ly/2SETq3d
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/MRWT3J" group-title="COMÉDIA", DIÁRIO DE UM BANANA 3
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87tAMjMTX7mgCrf4wcf0KUtPY8E.jpg" group-title="COMÉDIA", DIÁRIO DE UM BANANA 3
 http://bit.ly/3bB59bJ
  
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/MRWT3J" group-title="COMÉDIA", DIÁRIO DE UM BANANA 4
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsVyfkAdTDZWNMiaY39nYwrheZQ.jpg" group-title="COMÉDIA", DIÁRIO DE UM BANANA 4
 http://bit.ly/2P04Z3Z
 
 
  
 FICÇÃO:
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg" group-title="LANÇAMENTOS", O Exterminador do Futuro: Destino Sombrio
+http://bit.ly/3bawxNz
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/dtoYuO" group-title="FICÇÃO CIENTÍFICA", MALÉVOLA: DONA DO MAL
 http://bit.ly/2tDm5gv
@@ -232,6 +259,12 @@ http://bit.ly/2RYNG5X
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/nmZxYY" group-title="FICÇÃO CIENTÍFICA", X-MEN: FÊNIX NEGRA
 http://bit.ly/2rGdoRY
 
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg" group-title="FICÇÃO CIENTÍFICA", O Exterminador do Futuro: Destino Sombrio
+http://bit.ly/3bawxNz
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="FICÇÃO CIENTÍFICA", Vingadores: Ultimato
+http://bit.ly/2tszojU
+
 NACIONAL:
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/q1tI6p" group-title="NACIONAL", O AMOR DÁ TRABALHO
@@ -241,6 +274,9 @@ http://bit.ly/2PTxtMz
 http://bit.ly/2EDE6xi
 
 SUSPENSE:
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJnXQL6Aa4s26eaORTvy0zRskfh.jpg" group-title="SUSPENSE", Coringa
+http://bit.ly/2GWoaYe
 
 #EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg" group-title="SUSPENSE", Aves de Rapina (TC)
 http://bit.ly/2uyAfjw
