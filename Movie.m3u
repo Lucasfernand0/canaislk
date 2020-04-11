@@ -2,13 +2,25 @@
 
 LANÇAMENTOS:
 
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w1280/yw7yXwpdSXJB6GWC19zryMxa1US.jpg" group-title="LANÇAMENTOS", Dois Irmãos - Uma Jornada Fantástica 
+https://bit.ly/34r0S7N
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w1280/yw7yXwpdSXJB6GWC19zryMxa1US.jpg" group-title="ANIMAÇÃO", Dois Irmãos - Uma Jornada Fantástica
+https://bit.ly/34r0S7N
+
 #EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w1280/xW2X68aFZKFzBylgVHXNn5bD8Eo.jpg" group-title="LANÇAMENTOS", Sócias em Guerra
 https://bit.ly/2XribnJ
 
 #EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w1280/k1BFCCnXK8x2XUt4LU2CYL6gFXO.jpg" group-title="LANÇAMENTOS", Ajuste de Contas 
 https://bit.ly/2XpYixi
 
-#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w1280/9zaToGTmlWfRBAzsk4vYWMtM1bD.jpg" group-title="ANIMAÇÃO", Fixies - Amigos Secretos 
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w1280/xW2X68aFZKFzBylgVHXNn5bD8Eo.jpg" group-title="LANÇAMENTOS", Sócias em Guerra
+https://bit.ly/2XribnJ
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w1280/k1BFCCnXK8x2XUt4LU2CYL6gFXO.jpg" group-title="COMÉDIA", Ajuste de Contas 
+https://bit.ly/2XpYixi
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w1280/9zaToGTmlWfRBAzsk4vYWMtM1bD.jpg" group-title="AÇÃO", Fixies - Amigos Secretos 
  https://bit.ly/2wuDw4r
 
 #EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w1280/qoILNllyC6YXHyT4V9YOhMJlPuO.jpg" group-title="ANIMAÇÃO", Ben 10 - Destruição Alienígena
@@ -65,53 +77,56 @@ http://bit.ly/2S3gZDR
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/rSMACw" group-title="LANÇAMENTOS", Frozen 2
 http://bit.ly/2TW5QEv
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/94LV1Q" group-title="LANÇAMENTOS", ABOMINÁVEL
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/94LV1Q" group-title="LANÇAMENTOS", Abominável
 http://bit.ly/35EVEUF
 
 #EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo9hEe3yBjJYOxL3suygTuVxWmn.jpg" group-title="LANÇAMENTOS", Bons Meninos
 http://bit.ly/3838z4O
 
-#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWZslR3J2ykT9J1pBzgmiR4eMrJ.jpg" group-title="LANÇAMENTOS", VOANDO ALTO
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWZslR3J2ykT9J1pBzgmiR4eMrJ.jpg" group-title="LANÇAMENTOS", Voando Alto
 http://bit.ly/39QK6Rz
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/dtoYuO" group-title="LANÇAMENTOS", MALÉVOLA: DONA DO MAL
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/dtoYuO" group-title="LANÇAMENTOS", Malévola 2: Dona do Mal
 http://bit.ly/2tDm5gv
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/qjkFHD" group-title="LANÇAMENTOS", PROJETO GEMINI
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/qjkFHD" group-title="LANÇAMENTOS", Protejo Gemini
 http://bit.ly/2Qof0b8
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/sZKkgw" group-title="LANÇAMENTOS", ELA DISSE ELE DISSE
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/sZKkgw" group-title="LANÇAMENTOS", Ela Disse, Ele Disse
 http://bit.ly/2EDE6xi
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/o7L6Jj" group-title="LANÇAMENTOS", CODE 8: RENEGADOS
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/o7L6Jj" group-title="LANÇAMENTOS", CODE 8: Renegados
 http://bit.ly/2Pp1a9e
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/WEP8o3" group-title="LANÇAMENTOS", ALADDIN
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/WEP8o3" group-title="LANÇAMENTOS", Aladdin
 http://bit.ly/38WDmBs
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/q1tI6p" group-title="LANÇAMENTOS", O AMOR DÁ TRABALHO
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/q1tI6p" group-title="LANÇAMENTOS", O Amor da Trabalho
 http://bit.ly/2PTxtMz
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/M5hjTr" group-title="LANÇAMENTOS", MIB: HOMENS DE PRETO - INTERNACIONAL
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/M5hjTr" group-title="LANÇAMENTOS", MIB: Homens de Preto
 http://bit.ly/2Poq6O7
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/xFRZkW" group-title="LANÇAMENTOS", DORA E A CIDADE PERDIDA
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/xFRZkW" group-title="LANÇAMENTOS", Dora e a Cidade Perdida
 http://bit.ly/35kvM13
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/4sRAyw" group-title="LANÇAMENTOS", HOMEM-ARANHA: LONGE DE CASA
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/4sRAyw" group-title="LANÇAMENTOS", Homem-aranha: Longe de Casa
 http://bit.ly/2RYNG5X
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/3hZvlH" group-title="LANÇAMENTOS", AD ASTRA - RUMO ÀS ESTRELAS
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/3hZvlH" group-title="LANÇAMENTOS", Ad Astra - Rumo as Estrelas
 http://bit.ly/38kzael
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/Xz7LPu" group-title="LANÇAMENTOS", CORGI: TOP DOG
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/Xz7LPu" group-title="LANÇAMENTOS", Corgi: Top Dog
 http://bit.ly/2PICk2Y
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/XdXTee" group-title="LANÇAMENTOS", TOY STORY 4
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/XdXTee" group-title="LANÇAMENTOS", Toy Story 4
 http://bit.ly/2sv9UBS
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/2oZGWx" group-title="LANÇAMENTOS", ANGRY BIRDS 2: O FILME
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/2oZGWx" group-title="LANÇAMENTOS", Angry Birds 2: O Filme
 http://bit.ly/34i65x2
+
+#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MxdoHkpFf6XrID0mDfzdpsEeSA.jpg" group-title="ANIMAÇÃO", Angry Birds: O Filme
+http://bit.ly/2SRNSCv
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/QMZkkx" group-title="LANÇAMENTOS", PETS – A VIDA SECRETA DOS BICHOS 2
 http://bit.ly/34qj2Fb
@@ -140,7 +155,7 @@ http://bit.ly/35rGumN
 AÇÃO:
 
 
-#EXTINF:-1 type="video" tvg-logo="https://is.gd/JeI3mO" group-title="AÇÃO", AS PANTERAS
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/JeI3mO" group-title="AÇÃO", As Panteras
 http://bit.ly/2uFn14J
 
 #EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg" group-title="AÇÃO", Delorean - Do Motor ao Crime
@@ -228,9 +243,6 @@ http://bit.ly/2SMH6OF
 
 #EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/devZdyPRXMiN8HHiX7Y8s0LLEee.jpg" group-title="ANIMAÇÃO", O Rei Leão
 http://bit.ly/38Jf11z
-
-#EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MxdoHkpFf6XrID0mDfzdpsEeSA.jpg" group-title="ANIMAÇÃO", Angry Birds: O Filme
-http://bit.ly/2SRNSCv
 
 #EXTINF:-1 type="video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjiJUyLpLuyQZO3sbIlTsvQioEj.jpg" group-title="ANIMAÇÃO", Olaf: Em uma Nova Aventura Congelante de Frozen
 http://bit.ly/31X8iyn
@@ -372,3 +384,6 @@ https://bit.ly/3dzUIXb
 
 #EXTINF:-1 type="video" tvg-logo="https://is.gd/IKOMf" group-title="Greys Anatomy Temporada 16", Episódio 11
 https://bit.ly/3dDhxt2
+
+#EXTINF:-1 type="video" tvg-logo="https://is.gd/IKOMf" group-title="Greys Anatomy Temporada 16", Episódio 12
+https://bit.ly/3a7HqOJ
