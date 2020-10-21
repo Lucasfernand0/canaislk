@@ -1,5 +1,16 @@
 #EXTM3U
 
+Filmes HD
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://i.imgur.com/jlivYak.png" type="video", O Segredo do Reino Perdido
+https://bit.ly/3kib3CL
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://i.imgur.com/EHvJ6HW.png" type="video", Aventura Mágica (Portugal)
+https://bit.ly/3m7jod2
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://i.imgur.com/Fn8blh0.png" type="video", O Mistério do Abismo
+https://bit.ly/2FM3mWh
+
 4° Temporada HD
 
 #EXTINF:-1 group-title="4 Temporada" tvg-logo="https://i.imgur.com/GLV7S5v.png" type="video", Episódio 1
