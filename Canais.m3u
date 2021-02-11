@@ -10,7 +10,7 @@ https://ricks.azureedge.net/hls1/boomerang.m3u8
 https://ricks.azureedge.net/hls1/cartoon.m3u8
 
 #EXTINF:-1 tvg-ID"DSK" tvg-logo="https://i.imgur.com/sJjH1dq.jpg" group-title="Infantil" type="stream", Discovery Kids
-https://ricks.azureedge.net/hls1/discoverykids.m3u8
+http://cdnz.videezy.gq/live/discoverykids/chunks.m3u8s.m3u8
 
 #EXTINF:-1 tvg-ID"DCH" tvg-logo="https://i.imgur.com/mpKOEn0.jpg" group-title="Infantil" type="stream", Disney Channel
 https://ricks.azureedge.net/hls1/disney.m3u8
