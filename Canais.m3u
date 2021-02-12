@@ -13,13 +13,13 @@ http://69.162.89.182:8081/live/infantil_cartoonnetwork/chunks.m3u8
 http://cdnz.videezy.gq/live/discoverykids/chunks.m3u8
 
 #EXTINF:-1 tvg-ID"DCH" tvg-logo="https://i.imgur.com/mpKOEn0.jpg" group-title="Infantil" type="stream", Disney Channel
-https://ricks.azureedge.net/hls1/disney.m3u8
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-b.m3u8
 
 #EXTINF:-1 tvg-ID"DJR" tvg-logo="https://i.imgur.com/8qesASg.jpg" group-title="Infantil" type="stream", Disney JR
-https://ricks.azureedge.net/hls1/disneyjunior.m3u8
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-b.m3u8
 
 #EXTINF:-1 tvg-ID"DXD" tvg-ID"" tvg-logo="https://i.imgur.com/S2uvifV.jpg" group-title="Infantil" type="stream", Disney XD
-https://ricks.azureedge.net/hls1/disneyxd.m3u8
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8
 
 #EXTINF:-1 tvg-ID"GLB" tvg-logo="https://i.imgur.com/3fZjCqH.jpg" group-title="Infantil" type="stream", Gloob
 http://cdnz.videezy.gq/live/gloob/chunks.m3u8
@@ -36,43 +36,43 @@ http://69.162.89.182:8081/live/infantil_tooncast/chunks.m3u8
 ###################################
 
 #EXTINF:-1 tvg-ID"BSP" tvg-logo="https://i.imgur.com/710WeRI.jpg" group-title="Esportes" type="stream", Band Sports
-https://ricks.azureedge.net/hls1/bandsports.m3u8
+https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID"BSP" tvg-logo="https://i.imgur.com/36I7BPr.jpg" group-title="Esportes" type="stream", ESPN
-https://ricks.azureedge.net/hls1/espn.m3u8
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_480_av-p.m3u8
 
 #EXTINF:-1 tvg-ID"BSP" tvg-logo="https://i.imgur.com/F9V7rbN.jpg" group-title="Esportes" type="stream", ESPN 2
-https://ricks.azureedge.net/hls1/espn2.m3u8
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_480_av-p.m3u8
 
 #EXTINF:-1 tvg-ID"BSP" tvg-logo="https://i.imgur.com/NnikDXL.jpg" group-title="Esportes" type="stream", ESPN Brasil
-https://ricks.azureedge.net/hls1/espnbrasil.m3u8
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-p.m3u8
 
 #EXTINF:-1 tvg-ID"BSP" tvg-logo="https://i.imgur.com/0fLZ6o8.jpg" group-title="Esportes" type="stream", ESPN Extra
-https://ricks.azureedge.net/hls1/espnextra.m3u8
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
 
 #EXTINF:-1 tvg-ID"STV" tvg-logo="https://i.imgur.com/kcofJR3.jpg" group-title="Esportes" type="stream", SporTV
-https://ricks.azureedge.net/hls1/sportv1.m3u8
+http://cdnz.videezy.gq/live/sportv/chunks.m3u8
 
 #EXTINF:-1 tvg-ID"STV2" tvg-logo="https://i.imgur.com/5SBUFHc.jpg" group-title="Esportes" type="stream", SporTV 2
-https://ricks.azureedge.net/hls1/sportv2.m3u8
+http://69.162.89.182:8081/live/esporte_sportv2/chunks.m3u8
 
 #EXTINF:-1 tvg-ID"STV3" tvg-logo="https://i.imgur.com/ojHkjAp.jpg" group-title="Esportes" type="stream", SporTV 3
-https://ricks.azureedge.net/hls1/sportv3.m3u8
+http://cdnz.videezy.gq/live/sportv3/chunks.m3u8
 
 #EXTINF:-1 tvg-ID"CBT" tvg-logo="https://i.imgur.com/zmUEfjF.jpg" group-title="Esportes" type="stream",Combate
-https://ricks.azureedge.net/hls1/combate.m3u8
+http://69.162.89.182:8081/live/esporte_combate/chunks.m3u8
 
 #EXTINF:-1 tvg-ID"BSP" tvg-logo="https://i.imgur.com/IYDuMui.jpg" group-title="Esportes" type="stream", Discovery Turbo
 https://ricks.azureedge.net/hls1/discoveryturbo.m3u8
 
 #EXTINF:-1 tvg-ID"FSP" tvg-logo="https://i.imgur.com/8YpcWJi.jpg" group-title="Esportes" type="stream", Fox Sports
-https://ricks.azureedge.net/hls1/foxsports1.m3u8
+http://69.162.89.182:8081/live/esporte_foxsports/chunks.m3u8
 
 #EXTINF:-1 tvg-ID"FS2" tvg-logo="https://i.imgur.com/FhtJvvW.jpg" group-title="Esportes" type="stream", Fox Sports 2
-https://ricks.azureedge.net/hls1/foxsports2.m3u8
+http://69.162.89.182:8081/live/esporte_foxsports2/chunks.m3u8
 
 #EXTINF:-1 tvg-ID"PR" tvg-logo="https://i.imgur.com/7C7Cw8g.jpg" group-title="Esportes" type="stream", Premiere Clubes
-https://ricks.azureedge.net/hls1/premiereclubes.m3u8
+http://cdnz.videezy.gq/live/premiereclubes/chunks.m3u8
 
 #EXTINF:-1 tvg-ID"PRM2" tvg-logo="https://i.imgur.com/FNRrgY0.jpg" group-title="Esportes" type="stream", Premiere 2
 https://ricks.azureedge.net/hls1/premiere2.m3u8
