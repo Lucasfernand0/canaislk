@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "NOME",
+  "description": "Assista Homem-Aranha: Um Novo Dia",
+  "thumbnailUrl": [
+    "https://image.tmdb.org/t/p/original/b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg"
+  ],
+  "uploadDate": "2026-07-28T00:00:00+00:00",
+  "inLanguage": "pt",
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": {
+      "@type": "WatchAction"
+    },
+    "userInteractionCount": 5237
+  },
+  "duration": "PT2H23M",
+  "contentUrl": "https://hugh.cdn.rumble.cloud/video/fwe2/79/s8/2/G/V/3/K/GV3KA.aaa.mp4",
+  "embedUrl": "https://hugh.cdn.rumble.cloud/video/fwe2/79/s8/2/G/V/3/K/GV3KA.aaa.mp4"
+}
+</script>
