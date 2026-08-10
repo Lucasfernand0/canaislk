@@ -20,7 +20,7 @@
     "userInteractionCount": 5237
   },
   "duration": "PT2H23M",
-  "contentUrl": "http://192.168.101.2:39615/manifest.mpd?1",
-  "embedUrl": "http://192.168.101.2:39615/manifest.mpd?1"
+  "contentUrl": "http://uganri-sagittarius.s3.us-central-1.wasabisys.com/oren/FHD1/tt10515852.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=EE1QC473U6NNA80Z47PL%2F20260810%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260810T172238Z&X-Amz-SignedHeaders=host&X-Amz-Expires=18000&X-Amz-Signature=ec92b22ff319cf5a6b15af757ec49e148bf1a4bbd6ab91c791e432dc8e82b25e",
+  "embedUrl": "http://uganri-sagittarius.s3.us-central-1.wasabisys.com/oren/FHD1/tt10515852.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=EE1QC473U6NNA80Z47PL%2F20260810%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260810T172238Z&X-Amz-SignedHeaders=host&X-Amz-Expires=18000&X-Amz-Signature=ec92b22ff319cf5a6b15af757ec49e148bf1a4bbd6ab91c791e432dc8e82b25e"
 }
 </script>
