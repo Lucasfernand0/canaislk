@@ -20,7 +20,7 @@
     "userInteractionCount": 5237
   },
   "duration": "PT2H23M",
-  "contentUrl": "https://hugh.cdn.rumble.cloud/video/fwe2/79/s8/2/G/V/3/K/GV3KA.aaa.mp4",
-  "embedUrl": "https://hugh.cdn.rumble.cloud/video/fwe2/79/s8/2/G/V/3/K/GV3KA.aaa.mp4"
+  "contentUrl": "http://192.168.101.2:39615/manifest.mpd?1",
+  "embedUrl": "http://192.168.101.2:39615/manifest.mpd?1"
 }
 </script>
